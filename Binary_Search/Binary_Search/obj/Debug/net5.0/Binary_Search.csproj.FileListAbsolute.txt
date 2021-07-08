@@ -1,0 +1,16 @@
+C:\Users\Tipu\Desktop\C# Collection\Binary_Search\Binary_Search\bin\Debug\net5.0\Binary_Search.exe
+C:\Users\Tipu\Desktop\C# Collection\Binary_Search\Binary_Search\bin\Debug\net5.0\Binary_Search.deps.json
+C:\Users\Tipu\Desktop\C# Collection\Binary_Search\Binary_Search\bin\Debug\net5.0\Binary_Search.runtimeconfig.json
+C:\Users\Tipu\Desktop\C# Collection\Binary_Search\Binary_Search\bin\Debug\net5.0\Binary_Search.runtimeconfig.dev.json
+C:\Users\Tipu\Desktop\C# Collection\Binary_Search\Binary_Search\bin\Debug\net5.0\Binary_Search.dll
+C:\Users\Tipu\Desktop\C# Collection\Binary_Search\Binary_Search\bin\Debug\net5.0\ref\Binary_Search.dll
+C:\Users\Tipu\Desktop\C# Collection\Binary_Search\Binary_Search\bin\Debug\net5.0\Binary_Search.pdb
+C:\Users\Tipu\Desktop\C# Collection\Binary_Search\Binary_Search\obj\Debug\net5.0\Binary_Search.csproj.AssemblyReference.cache
+C:\Users\Tipu\Desktop\C# Collection\Binary_Search\Binary_Search\obj\Debug\net5.0\Binary_Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tipu\Desktop\C# Collection\Binary_Search\Binary_Search\obj\Debug\net5.0\Binary_Search.AssemblyInfoInputs.cache
+C:\Users\Tipu\Desktop\C# Collection\Binary_Search\Binary_Search\obj\Debug\net5.0\Binary_Search.AssemblyInfo.cs
+C:\Users\Tipu\Desktop\C# Collection\Binary_Search\Binary_Search\obj\Debug\net5.0\Binary_Search.csproj.CoreCompileInputs.cache
+C:\Users\Tipu\Desktop\C# Collection\Binary_Search\Binary_Search\obj\Debug\net5.0\Binary_Search.dll
+C:\Users\Tipu\Desktop\C# Collection\Binary_Search\Binary_Search\obj\Debug\net5.0\ref\Binary_Search.dll
+C:\Users\Tipu\Desktop\C# Collection\Binary_Search\Binary_Search\obj\Debug\net5.0\Binary_Search.pdb
+C:\Users\Tipu\Desktop\C# Collection\Binary_Search\Binary_Search\obj\Debug\net5.0\Binary_Search.genruntimeconfig.cache
